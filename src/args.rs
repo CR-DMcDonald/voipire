@@ -164,6 +164,6 @@ pub fn banner() {
     println!("");
     println!("A tool to scan and exploit RTP Bleed in SBCs");
     println!("Written by Darren McDonald, Cryptic Red Ltd");
-    println!("Copyright 2024");
+    println!("Copyright 2024, Cryptic Red Ltd");
     println!("");
 }
