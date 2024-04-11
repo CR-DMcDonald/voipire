@@ -1,10 +1,20 @@
-// Copyright (c) 2024 Cryptic Red
-// Written by Darren McDonald
+// Copyright (C) 2024 Cryptic Red Ltd
+// This file is part of voipire <https://github.com/CR-DMcDonald/voipire>.
 //
-// All rights reserved. This code and the accompanying application are protected by copyright
-// and may not be copied, reproduced, or used in any manner without the explicit written
-// permission of Cryptic Red.
-
+// voipire is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// voipire is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with voipire.  If not, see <http://www.gnu.org/licenses/>.
+//
+// Written by Darren McDonald
 
 use std::{io::Write, sync::Arc};
 use std::net::UdpSocket;
