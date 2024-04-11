@@ -26,7 +26,7 @@ You can then find the executable under target/release/voipire.
 
 #### Processing the raw audio files
 
-The program outputs raw RTP date to .raw files as it finds RTP steams. You'll to use another tool to open and play these.
+The program outputs raw RTP date to .raw files as it finds RTP steams. You'll need to use another tool to open and play these.
 
 Usually the following works. Open Audicity and go File -> Input -> Raw Data...
 
